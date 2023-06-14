@@ -1,0 +1,4 @@
+tensorflow==2.12.*
+tensorflow-datasets==4.9.*
+tensorflow-recommenders=0.7.*
+pandas
