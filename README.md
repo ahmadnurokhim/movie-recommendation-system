@@ -7,9 +7,11 @@ You can find the dataset here: [Movie Recommendation System](https://www.kaggle.
 ## Requirements
 The library versions used in this project are:
 
-```tensorflow==2.12.0``` \
-```tensorflow-datasets==4.9.2``` \
-```tensorflow-recommenders==0.7.3```
+```
+tensorflow==2.12.0
+tensorflow-datasets==4.9.2
+tensorflow-recommenders==0.7.3
+```
 
 ## Current State of The Model
 
